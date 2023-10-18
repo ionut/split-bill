@@ -1,6 +1,6 @@
 {
-    "name": "eat-split",
-    "homepage": "https://ionut.github.io/split-bill/",
+    "name": "split-bill",
+    "homepage": "https://ionut.github.io/split-bill",
     "private": true,
     "version": "0.0.0",
     "type": "module",
